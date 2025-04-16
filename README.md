@@ -9,3 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,php,nodejs,react,express,redis,mysql,rollup,vite,git)](https://skillicons.dev)
 
+## Contact me
+ - LinkedIn: [Wayne Mwashuma](https://www.linkedin.com/in/wayne-mwashuma-878200252)
+ - Email: mwashumawayne@gmail.com
+
+
