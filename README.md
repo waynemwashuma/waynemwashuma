@@ -1,3 +1,5 @@
+# Wayne Mwashuma
+
 - 👋 Hi, I’m @waynemwashuma
 - 👀 I’m interested in game and web development
 - 🌱 I’m currently learning javascript
@@ -10,7 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,php,nodejs,react,express,redis,mysql,rollup,vite,git)](https://skillicons.dev)
 
 ## Contact me
- - LinkedIn: [Wayne Mwashuma](https://www.linkedin.com/in/wayne-mwashuma-878200252)
- - Email: mwashumawayne@gmail.com
 
-
+- LinkedIn: [Wayne Mwashuma](https://www.linkedin.com/in/wayne-mwashuma-878200252)
+- Email: <mwashumawayne@gmail.com>

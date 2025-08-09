@@ -1,0 +1,28 @@
+{
+  "name": "mwashumas-portfolio",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Portfolio site",
+  "license": "GPL-3.0-or-later",
+  "author": "Wayne Mwashuma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm run vite-website",
+    "dev": "npm run vite-website",
+    "vite-website": "vite --config .config/vite.config.js",
+    "build": "npm run vite-website -- build --emptyOutDir"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "basiclightbox": "^5.0.4",
+    "mailtoui": "^1.0.3",
+    "moveto": "^1.8.2",
+    "prismjs": "^1.30.0",
+    "swiper": "^6.4.5"
+  }
+}
